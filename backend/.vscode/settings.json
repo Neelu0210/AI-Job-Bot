@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./venv/lib/python3.x/site-packages"  // Adjust path to match your Python version
+    ],
+    "python.autoComplete.extraPaths": [
+        "./venv/lib/python3.x/site-packages"  // Adjust path to match your Python version
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
